@@ -5,7 +5,7 @@
 ## Seja bem vindo ao meu projeto de tik-tak-toe, conhecido por nós brasileiros como jogo da velha!
 
 
-<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodar o APP!</p>
+<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodar o game!</p>
 <br>
 <p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto foi desenvolvido no ano de 2022 na diciplina de Desenvolvimento Web no meu curso de Engenharia de Software, ele é um jogo da velha clássico, com a possivbilidade de jogar em 2 jogadores, com um sistema de soma de pontos!
 <br>
