@@ -1,31 +1,38 @@
-<h1> Olá Dev </h1>
+## Hello Dev!
+
+## Welcome to my tic-tac-toe project!!
 
 <br>
-
-## Seja bem vindo ao meu projeto de tik-tak-toe, conhecido por nós brasileiros como jogo da velha!
-
-
-<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodar o game!</p>
-<br>
-<p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto foi desenvolvido no ano de 2022 na diciplina de Desenvolvimento Web no meu curso de Engenharia de Software, ele é um jogo da velha clássico, com a possivbilidade de jogar em 2 jogadores, com um sistema de soma de pontos!
+<p>This project was developed in 2k22 at my Web Development subject in my university, it's a classic tic-tac-toe, with the possibilitie for two players play the game with a score system!
 <br>
 
-##  Pré Requisitos
- - Antes de iniciar o projeto, você vai precisar das seguintes ferramentas: 
+##  Prerequisites
+ - Before start play, you will need the fallow tools: 
     - ✔️ [VsCode](https://code.visualstudio.com/download);
-    - ✔️ [Live Server] (extensão do VsCode)
+    - ✔️ [Live Server] (VsCode Extension);
  
-## 📄 Instruções
- <br>
- <h2> Após abrir o arquivo no VsCode: </h2> 
+## 📄 Instructions:
 
- <h4>~ clique com o botão direito no arquivo index.html e clique ~</h4>
+-Create a fork to your rep, or download the file and open it in your vscode
+
+ <h3>To fork click here:</h3>
+ 
+  ![fork](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/dad949c9-3e0a-40b0-a4bd-361f969abd4d)
+
+  <h3>To download click here:</h3>
+
+![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
+
  <br>
- 
- <h2> OPEN WITH LIVE SERVER </h2> 
- <br>
- 
- <h4> Pronto! agora é só testar o jogo da velha, pretendo atualizar o site e emplementar mais funcionalidades, em caso de bug ou ideia mande um request</h1>
- 
- ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
- ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
+   <h2>Open the project file at VSCode</h2>
+   <br>
+
+   <p>Now all you need is execute the program, click with the right click at index(1).html an open with live server!</p>
+
+![image](https://github.com/victorgabrielnascimento/First-Website/assets/105366808/823b5806-f177-4130-8ba8-98db46f0cbbd)
+
+
+
+ ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
+ ## 🌟 Please support me starring this project repositorie 🌟
+ ## 📚 See more projects that I developed-> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
